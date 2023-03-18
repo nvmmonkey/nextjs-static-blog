@@ -11,7 +11,7 @@ function PostItem(props) {
     year: "numeric",
   });
 
-  const iamgePath = `/images/posts/${slug}/${image}`;
+  const imgPath = `/images/posts/${slug}/${image}`;
   const linkPath = `/posts/${slug}`;
 
   return (
@@ -19,7 +19,7 @@ function PostItem(props) {
       <Link href={linkPath}>
         <div className={classes.image}>
           <Image
-            src={iamgePath}
+            src={imgPath}
             alt={title}
             width={300}
             height={200}

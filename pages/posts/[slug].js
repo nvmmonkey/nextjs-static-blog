@@ -1,8 +1,7 @@
-function PostPage() {
-  return <p>A specific blog page</p>;
+import PostContent from "../../components/home-page/posts/post-detail/post-content";
+
+function PostDetailPage() {
+  return <PostContent />;
 }
 
-export default PostPage;
-
-// 1)Hero Content
-// 2)Feature Posts
+export default PostDetailPage;
