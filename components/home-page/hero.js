@@ -14,8 +14,8 @@ function Hero() {
       </div>
       <h1>Hi, I'm Kit</h1>
       <p>
-        I am a researcher & angels & advisor in crypto - I write blog about my
-        research & coding stacks like React, Next, and Tailwind.
+        I am a Researcher + Angel + Advisor in crypto - I write blogs about my
+        researches & coding stacks like ReactJS, NextJS, and TailwindCSS.
       </p>
     </section>
   );

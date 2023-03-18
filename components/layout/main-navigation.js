@@ -1,18 +1,18 @@
 import Link from "next/link";
+import Logo from "./logo";
+
+import classes from "./main-navigation.module.css";
 
 function MainNavigation() {
   return (
-    <header>
+    <header className={classes.header}>
       <Link href="/">
-        <a>
-          <Logo />
-        </a>
-        {/**Must add a anchor for non-text href link */}
+        <Logo />
       </Link>
       <nav>
         <ul>
           <li>
-            <Link href="/post">POSTS</Link>
+            <Link href="/posts">POSTS</Link>
           </li>
           <li>
             <Link href="/contact">CONTACT</Link>

@@ -2,8 +2,8 @@
     text-align: center;
     background-image: linear-gradient(
       to bottom,
-      var(--color-grey-900),
-      var(--color-grey-800)
+      hsl(202, 41%, 25%),
+      hsl(24, 44%, 26%)
     );
     padding: var(--size-8) 0;
   }
