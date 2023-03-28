@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Deploy Vercel
 
-Vercel APP: [nextjs-static-blog-nvmmonkey.vercel.app](nextjs-static-blog-nvmmonkey.vercel.app)
+Vercel APP: [https://nextjs-static-blog-nvmmonkey.vercel.app/](https://nextjs-static-blog-nvmmonkey.vercel.app/)
 
 ## Getting Started
 
